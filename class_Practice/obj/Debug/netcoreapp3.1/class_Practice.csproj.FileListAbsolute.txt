@@ -1,0 +1,13 @@
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.AssemblyInfo.cs
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Projects/class_Practice/bin/Debug/netcoreapp3.1/class_Practice.deps.json
+/Users/yusifnazarbayov/Projects/class_Practice/bin/Debug/netcoreapp3.1/class_Practice.runtimeconfig.json
+/Users/yusifnazarbayov/Projects/class_Practice/bin/Debug/netcoreapp3.1/class_Practice.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Projects/class_Practice/bin/Debug/netcoreapp3.1/class_Practice.dll
+/Users/yusifnazarbayov/Projects/class_Practice/bin/Debug/netcoreapp3.1/class_Practice.pdb
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.dll
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.pdb
+/Users/yusifnazarbayov/Projects/class_Practice/obj/Debug/netcoreapp3.1/class_Practice.genruntimeconfig.cache
