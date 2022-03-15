@@ -1,0 +1,13 @@
+/Users/yusifnazarbayov/Projects/classWorkAnalog/bin/Debug/netcoreapp3.1/classWorkAnalog.deps.json
+/Users/yusifnazarbayov/Projects/classWorkAnalog/bin/Debug/netcoreapp3.1/classWorkAnalog.runtimeconfig.json
+/Users/yusifnazarbayov/Projects/classWorkAnalog/bin/Debug/netcoreapp3.1/classWorkAnalog.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Projects/classWorkAnalog/bin/Debug/netcoreapp3.1/classWorkAnalog.dll
+/Users/yusifnazarbayov/Projects/classWorkAnalog/bin/Debug/netcoreapp3.1/classWorkAnalog.pdb
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.AssemblyInfo.cs
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.dll
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.pdb
+/Users/yusifnazarbayov/Projects/classWorkAnalog/obj/Debug/netcoreapp3.1/classWorkAnalog.genruntimeconfig.cache
